@@ -1,2 +1,2 @@
 # SD_Confeitaria-Bytes-de-Docura
-Projeto de sistema distribuídos para um ge
+Projeto da disciplina de Sistema Distribuídos para um gerenciador de compras em uma confeitaria fictícia
